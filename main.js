@@ -34,7 +34,7 @@ var testMap0 = [
 function main() {
     // main game function
     // this should be at the end of the file
-    var canvas = document.getElementById("game").getContext("2d"); // sets up canvas draw
+    var canvas = document.getElementById("game").getContext("2d");
     var activeGameMap; // will point to whatever level is on top at the moment
 }
 
