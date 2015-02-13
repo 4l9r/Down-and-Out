@@ -1,3 +1,7 @@
 /*
 Main CSS file.
 */
+#game {
+  width: 800px;
+  height: 450px;
+}
