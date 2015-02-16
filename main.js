@@ -35,7 +35,7 @@ function main() {
     // main game function
     // this should be at the end of the file
     var canvas = document.getElementById("game").getContext("2d");
-    var activeGameMap; // will point to whatever level is on top at the moment
+    var activeLevel; // will point to whatever level is running at the moment
 }
 
 main();
