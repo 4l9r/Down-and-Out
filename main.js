@@ -31,6 +31,10 @@ var testMap0 = [
     [" "," "," ","W","W","W","1","W","W"," "," "," "," "," "," "," "],
 ];
 
+function draw() {
+    // main draw function
+}
+
 function main() {
     // main game function
     // this should be at the end of the file
